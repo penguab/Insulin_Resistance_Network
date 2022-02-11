@@ -22,6 +22,10 @@ For each tissue, four files were shared for the network results.
 
 {Population}_{tissue}_Bayesian.tsv: The Bayesian network for each tissue.
 
+ARmuscleRNAseqBGI_135_sample-Normalized_Count-DESeq2_with_annot.txt.gz: Muscle transcriptome with normalized read counts in the Arkansas cohort.
+
+ArkansasND_Cohort-phenotype_data-FinalSept2009.txt: Meta file for muscle transcriptome in the Arkansas cohort.
+
 ## Citation
 
 ## News
