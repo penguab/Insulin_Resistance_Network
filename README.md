@@ -1,4 +1,4 @@
-# GTEx-Networks
+# Insulin-Resistance-Networks
 
 This directory contains the MEGENA co-expression networks and Bayesian networks for adipose and muscle tissues of AAGMEx and METSIM databases. The donor age, sex, and ethnic groups were adjusted before network construction. 
 
